@@ -1,7 +1,7 @@
 # myhw3
 This project was a password generator web application. It was designed using HTML, CSS and Javascript.
 The HTML and CSS external style file were both provided for us.
-I created a script javascript file and linked it to my provied html file.
+I created a javascript file and linked it to my provied html file.
 
 The first step was listing out the variables I would be using at the top of the script file and creating a varaiable for each of the possible charater types to be included in the password.
 
